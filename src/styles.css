@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+.form {
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form__input {
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    outline: none;
+    background-color: ;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
